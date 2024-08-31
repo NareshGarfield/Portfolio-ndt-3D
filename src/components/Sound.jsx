@@ -13,7 +13,7 @@ const Modal = ({ onClose, toggle }) => {
             "
       >
         <p className="font-light">Do you like to play the background music?</p>
-        <p className="font-light text-yellow-300 opacity-60">Masaru Yokoyama - "Friend A"</p>
+        <p className="font-light text-yellow-300 opacity-60">Masaru Yokoyama - &ldquo;Friend A&rdquo;</p>
         <div className="flex items-center justify-center space-x-4">
           <button
             onClick={toggle}
