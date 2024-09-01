@@ -23,7 +23,7 @@ export const projectsData = [
     name: "Chat Bot",
     description: "Using NLP and Neural Networks",
     date: "2021-04-10",
-    demoLink: "https://github.com/NareshGarfield",
+    demoLink: "https://github.com/NareshGarfield/Python-Chatbot",
   },
   {
     id: 2,
